@@ -137,3 +137,5 @@ aws budgets create-budget \
 ```
 ### Architectural design
 ![Cruddur architure design](/_docs/assets/Logical%20%20design.png)
+
+[Lucid charts share link](https://lucid.app/lucidchart/2dbfd703-7f57-4998-bcc1-69ee2f73b2e0/edit?viewport_loc=-1548%2C372%2C5300%2C2028%2C0_0&invitationId=inv_8351adab-811b-4ecc-ba6c-b51db477962f)
